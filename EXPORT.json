@@ -1,0 +1,8 @@
+[
+    {"tovar_nomi": "Olma", "davlat": "Uzbekiston", "bahosi": 100.0, "hajm": 200.0, "soni": 50},
+    {"tovar_nomi": "Olma", "davlat": "Turkmaniston", "bahosi": 100.0, "hajm": 200.0, "soni": 50},
+    {"tovar_nomi": "Olma", "davlat": "Tojigiston", "bahosi": 100.0, "hajm": 200.0, "soni": 50},
+    {"tovar_nomi": "Anor", "davlat": "Tojigiston", "bahosi": 150.0, "hajm": 300.0, "soni": 30},
+    {"tovar_nomi": "Olma", "davlat": "Uzbekiston", "bahosi": 100.0, "hajm": 200.0, "soni": 50},
+    {"tovar_nomi": "Banan", "davlat": "Turkmaniston", "bahosi": 200.0, "hajm": 400.0, "soni": 20}
+]

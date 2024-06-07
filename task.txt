@@ -1,0 +1,1 @@
+Masala:  Eksport qilinuvchi tovarlar haqidagi ma'lumot - <tovar nomi>,<tavor export qilayotgan davlat nomi>,<tovar bahosi> va <tovar hajmi>,<tovar soni> EXPORT faylida berilgan. Ma'lum bir tovarni eksport qiluvchi davlat va shu tovarning umumiy eksportdagi hajmi aniqlansin.
